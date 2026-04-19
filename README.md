@@ -1,6 +1,6 @@
 -----
 
-# 📈 Sales Forecasting: Predictive Analytics Pro
+# 📈 Sales Forecasting: Predictive Analytics 
 
 > **"Turning historical data into future strategy."**
 > This project leverages machine learning to predict daily sales trends, enabling businesses to move from reactive to proactive decision-making.
