@@ -6,6 +6,9 @@
 > This project leverages machine learning to predict daily sales trends, enabling businesses to move from reactive to proactive decision-making.
 
 -----
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
+[![Machine Learning](https://img.shields.io/badge/Focus-Unsupervised%20Learning-gold)](https://scikit-learn.org/)
+[![SHAP](https://img.shields.io/badge/Explainability-SHAP-red)](https://github.com/slundberg/shap)
 
 ## 🚀 Project Overview
 
@@ -95,6 +98,8 @@ Our forecast extends 30 days into the future, providing a clear visual of upcomi
 
 -----
 
-### Info
+### Personal Info
 
- | **[ [www.linkedin.com/in/don-sanvura] ]** | **[ [Dwagsanvura@gmail.com] ]** |
+  >> **[ [www.linkedin.com/in/don-sanvura] ]**  
+  >> **[ [Dwagsanvura@gmail.com] ]** 
+-----
