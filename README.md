@@ -99,7 +99,7 @@ Our forecast extends 30 days into the future, providing a clear visual of upcomi
 -----
 
 ### Personal Info
-
-  >> **[ [www.linkedin.com/in/don-sanvura] ]**  
-  >> **[ [Dwagsanvura@gmail.com] ]** 
+-----
+  >> **[ [www.linkedin.com/in/don-sanvura] ]** <<
+  >> **[ [Dwagsanvura@gmail.com] ]** <<           
 -----
