@@ -24,7 +24,7 @@ This end-to-end pipeline analyzes past sales patterns to estimate future demand.
 
 | Category | Tools |
 | :--- | :--- |
-| **Language** |  |
+| **Language** | `Python` |
 | **Data Handling** | `Pandas`, `NumPy` |
 | **ML Engine** | `Scikit-Learn` (Linear Regression) |
 | **Visualization** | `Matplotlib`, `Seaborn` |
